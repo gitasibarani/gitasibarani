@@ -1,4 +1,5 @@
-**Nginx Monitoring and Load Testing with Prometheus and Grafana K6**
+-Nginx Monitoring and Load Testing with Prometheus and Grafana K6
+-
 Proyek ini mencakup deployment layanan Nginx beserta monitoringnya menggunakan Prometheus dan Nginx Prometheus Exporter. Selain itu, Alertmanager diatur untuk memberikan notifikasi (email atau Slack) berdasarkan alert rules yang ditentukan. Proyek ini juga melakukan load testing terhadap server menggunakan Grafana K6.
 
 **Features**
@@ -16,11 +17,12 @@ Proyek ini mencakup deployment layanan Nginx beserta monitoringnya menggunakan P
 -Alertmanager: Alert handling system
 -Grafana K6: Load testing tool
 
-Anggota Kelompok:
+-Anggota Kelompok:
+-
 -Gitarosalina Sibarani
 -Clay Justin Wowor
 -Citra Grace Kalangie
 -Daud Aser Lendo
 -Prince Christian Rumate
 -Israel Markus Liando
--
+
