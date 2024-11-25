@@ -15,3 +15,12 @@ Proyek ini mencakup deployment layanan Nginx beserta monitoringnya menggunakan P
 -Nginx Prometheus Exporter: Metrics exporter for Nginx
 -Alertmanager: Alert handling system
 -Grafana K6: Load testing tool
+
+Anggota Kelompok:
+-Gitarosalina Sibarani
+-Clay Justin Wowor
+-Citra Grace Kalangie
+-Daud Aser Lendo
+-Prince Christian Rumate
+-Israel Markus Liando
+-
