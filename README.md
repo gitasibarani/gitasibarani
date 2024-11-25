@@ -25,4 +25,4 @@ Proyek ini mencakup deployment layanan Nginx beserta monitoringnya menggunakan P
 -Daud Aser Lendo
 -Prince Christian Rumate
 -Israel Markus Liando
-
+-Jenly Jenever Wala
